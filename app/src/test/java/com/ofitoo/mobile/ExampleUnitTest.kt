@@ -1,4 +1,4 @@
-package org.jvmcluster.ofitooapp.mobile
+package com.ofitoo.mobile
 
 import org.junit.Test
 

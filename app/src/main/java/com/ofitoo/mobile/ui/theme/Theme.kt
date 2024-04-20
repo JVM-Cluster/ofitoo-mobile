@@ -1,4 +1,4 @@
-package org.jvmcluster.ofitooapp.mobile.ui.theme
+package com.ofitoo.mobile.ui.theme
 
 import android.app.Activity
 import android.os.Build

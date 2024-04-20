@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "org.jvmcluster.ofitooapp.mobile"
+    namespace = "com.ofitoo.mobile"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "org.jvmcluster.ofitooapp.mobile"
+        applicationId = "com.ofitoo.mobile"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

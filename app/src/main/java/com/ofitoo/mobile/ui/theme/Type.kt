@@ -1,4 +1,4 @@
-package org.jvmcluster.ofitooapp.mobile.ui.theme
+package com.ofitoo.mobile.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
