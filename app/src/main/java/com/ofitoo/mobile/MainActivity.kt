@@ -28,6 +28,31 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
+
+    override fun onStart() {
+        super.onStart()
+        Log.d("LIFECYCLE", "onStart: ")
+    }
+
+    override fun onResume() {
+        super.onResume()
+        Log.d("LIFECYCLE", "onResume: ")
+    }
+
+    override fun onPause() {
+        super.onPause()
+        Log.d("LIFECYCLE", "onPause: ")
+    }
+
+    override fun onStop() {
+        super.onStop()
+        Log.d("LIFECYCLE", "onStop: ")
+    }
+
+    override fun onRestart() {
+        super.onRestart()
+        Log.d("LIFECYCLE", "onRestart: ")
+    }
 }
 
 @Composable
